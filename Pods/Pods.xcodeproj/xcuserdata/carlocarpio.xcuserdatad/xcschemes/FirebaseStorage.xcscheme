@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0930"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B5A07D77102F973A81C4933A2891A386"
-               BlueprintName = "FirebaseStorage"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "FirebaseStorage.framework">
+               BuildableIdentifier = 'primary'
+               BlueprintIdentifier = '7E4E90EF73F2AB90CC7E25A3181E5A4F'
+               BlueprintName = 'FirebaseStorage'
+               ReferencedContainer = 'container:Pods.xcodeproj'
+               BuildableName = 'libFirebaseStorage.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
